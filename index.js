@@ -8,6 +8,4 @@ function happyHolidaysTo(name){
 function happyHolidayTo(holiday, name){
   return "happy ${holiday}, ${name}!"
 
-  let holiday= "Independence Day"
-  let name= "You"
 }
